@@ -1,0 +1,4 @@
+Hi 
+If it possible to link live chat session from rocketchat session.
+In other words if I have 3 instances of rocket running on ports 3000, 3001,3002, it's possible to have 3 instances of live help
+(on ports 3000,3001,3002). What I want is to have 3 robots, with different answers, on 3 subdomains.
